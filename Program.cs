@@ -10,6 +10,8 @@
             linkedListQueue.enqueue(30);
             linkedListQueue.enqueue(70);
             linkedListQueue.Display();
+            linkedListQueue.Dequeue();
+            linkedListQueue.Display();
 
         }
     }
